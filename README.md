@@ -20,6 +20,7 @@ Tower notation
 ➢ x -- letter (‘a’ to ‘h’ or ‘A’ to ‘H’ if top-level piece is King).
 ➢ n -- number from 1 to 8.
 ➢ aaaaa -- description of the tower from top to bottom. 
+
 Output format
 1. String with coordinates of white pieces (towers with white piece on the top position)
 2. String with coordinates of black pieces (towers with black piece on the top position)
