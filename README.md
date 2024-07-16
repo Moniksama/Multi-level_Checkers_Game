@@ -34,3 +34,6 @@ Tower notation
 Output format
 1. String with coordinates of white pieces (towers with white piece on the top position)
 2. String with coordinates of black pieces (towers with black piece on the top position)
+
+# Source
+The instructor gave all the requirements
